@@ -1,4 +1,3 @@
-# MAHADEVS-X-USERBOTS
 # MAHADEV X USERBOT
 
 A POWERFUL AND SUPER USERBOT.......
@@ -21,7 +20,7 @@ __Repository create by [RAM/SIDDHARTH](TANDAV_X_MAHADEV_BAM_BHOLE)__
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS)
+[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT)
 
 ### String Session 🖇
 `
@@ -46,4 +45,3 @@ Thank you very so much 🙏
 
 •  TANDAV X FORCE!!!!
 .....................
-
