@@ -62,7 +62,7 @@
     },
     "BOTLOG": {
       "description": "Incase you want to turn off logging, put this to false",
-      "value": "False"
+      "value": "True"
     },
     "BOTLOG_CHATID": {
       "description": "ChatID of the Log group. Set it to '0' if BOTLOG = False and/or if LOGSPAMMER = False.",
@@ -74,7 +74,7 @@
     },
     "PM_AUTO_BAN": {
       "description": "PM Auto-Ban Feature Switch. Also known as the 'bleep blop, this is a bot...' module.",
-      "value": "False"
+      "value": "True"
     },
     "OCR_SPACE_API_KEY": {
       "description": "OCR API Key for .ocr command. Get from https://ocr.space/ocrapi",
