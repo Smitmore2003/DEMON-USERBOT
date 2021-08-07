@@ -1,6 +1,6 @@
 {
-  "name": "MahaDev UserBot",
-  "description": "[MahaDev UserBot] A modular Telegram userbot running on Python 3.9.2",
+  "name": "DeMon UserBot",
+  "description": "[Demon UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY SMIT AND TANDAV X SIDDHARTH",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,8 +8,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT",
-  "website": "https://t.me/MAHADEV_X_USERBOT",
+  "repository": "https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT",
+  "website": "https://t.me/DEMON_UB_SUPPORT",
   "stack": "container",
   "env": {
     "ALIVE_NAME": {
@@ -44,7 +44,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT",
+      "value": "https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT",
       "required": false
     },
     "COUNTRY": {
@@ -156,7 +156,7 @@
     },
     "TERM_ALIAS": {
       "description": "Display user for .term command",
-      "value": "MahaDev",
+      "value": "Demon",
       "required": false
     }
   },
