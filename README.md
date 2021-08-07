@@ -1,26 +1,26 @@
-# MAHADEV X USERBOT
+# DEMON USERBOT
 
 A POWERFUL AND SUPER USERBOT.......
 <p align="center">
-  <a href="https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/fork">
+  <a href="https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/fork">
     
 
 
-![MAHADEV X USERBOT](https://telegra.ph/file/f6ce93cb39a345085b6b9.jpg)
+![DEMON USERBOT](https://telegra.ph/file/43f42fb490f9193be2a34.jpg)
 
 ### Group Support 🔥🇮🇳🇮🇳
 `
 Click the button below to join our support group`
-   <a href="https://t.me/MAHADEV_X_USERBOT"><img src="https://img.shields.io/badge/Grup%20Support%3F-MAHADEV-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/DEMON_UB_SUPPORT"><img src="https://img.shields.io/badge/Grup%20Support%3F-DEMON-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-__Repository create by [RAM/SIDDHARTH](TANDAV_X_MAHADEV_BAM_BHOLE)__
+__Repository create by [SMIT/SID](Smitmore2)__
 
 
 
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS)
+[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOTS)
 
 ### String Session 🖇
 `
@@ -43,5 +43,5 @@ Click the button next to create your strings`
 ....................
 Thank you very so much 🙏
 
-•  TANDAV X FORCE!!!!
+•  LEGACY LEAVERS NETWORKS!!!!
 .....................
