@@ -23,15 +23,13 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 DEF_UNAPPROVED_MSG = (
-    "WELCOME THIS IS THE PM SECURITY OF MY MASTERDO NOT SPAM HERE OR ULL GET REPORTED!WAIT TILL MY MASTER APPROVES YOU! Userbot Is Online Owner of DEMON USERBOT IS OFFICIAL SMIT. Hi I'm the one who keeps chat master messages on this account please don't spam until my master reads your messages \n"
+    "𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗧𝗛𝗘 𝗣𝗠 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗢𝗙 𝗠𝗬 𝗠𝗔𝗦𝗧𝗘𝗥 𝗪𝗔𝗜𝗧 𝗧𝗜𝗟𝗟 𝗠𝗬 𝗠𝗔𝗦𝗧𝗘𝗥 𝗔𝗣𝗣𝗥𝗢𝗩𝗘𝗦 𝗬𝗢𝗨𝗥 𝗠𝗦𝗚 𝗗𝗢 𝗡𝗢𝗧 𝗦𝗣𝗔𝗠 𝗛𝗘𝗥𝗘 𝗢𝗥 𝗨𝗟𝗟 𝗚𝗘𝗧 𝗥𝗘𝗣𝗢𝗥𝗧𝗘𝗗 ⭕️𝗪𝗔𝗜𝗧 𝗞𝗔𝗥𝗢 𝗦𝗣𝗔𝗠 𝗡𝗔𝗛𝗜⭕ \n"
     "If You Spam Automatically I Block You!!! \n"
     "Don't Spam 1 - 3 \n"
-    " - DEMON Userbot - "
+    " - 𝗗𝗘𝗠𝗢𝗡 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 - "
 )
 # =================================================================
-
-
-@register(incoming=True, disable_edited=True, disable_errors=True)
+ NOTregister(incoming=True, disable_edited=True, disable_errors=True)
 async def permitpm(event):
     """Prohibits people from PMing you without approval. \
         Will block retarded nibbas automatically."""
