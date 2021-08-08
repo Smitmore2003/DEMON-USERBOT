@@ -133,7 +133,7 @@ async def amireallyalive(alive):
     """For .alive command, check if the bot is running."""
     logo = ALIVE_LOGO
     output = (
-        f"`🔥DEMON USERBOT IS ON FIRE🔥USERBOT is`\n"
+        f"`🔥𝗗𝗘𝗠𝗢𝗡 𝗨𝗕 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘🔥`\n"
         "`====================================`\n"
         f"🐍 `Python         :` v{python_version()}\n"
         f"⚙️ `Telethon       :` v{version.__version__}\n"
