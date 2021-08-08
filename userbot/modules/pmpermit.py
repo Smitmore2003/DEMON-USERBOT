@@ -26,7 +26,7 @@ DEF_UNAPPROVED_MSG = (
     "WELCOME THIS IS THE PM SECURITY OF MY MASTERDO NOT SPAM HERE OR ULL GET REPORTED!WAIT TILL MY MASTER APPROVES YOU! Userbot Is Online Owner of DEMON USERBOT IS OFFICIAL SMIT. Hi I'm the one who keeps chat master messages on this account please don't spam until my master reads your messages \n"
     "If You Spam Automatically I Block You!!! \n"
     "Don't Spam 1 - 3 \n"
-    " - SNOOPY Userbot - "
+    " - DEMON Userbot - "
 )
 # =================================================================
 
