@@ -142,7 +142,7 @@ async def amireallyalive(alive):
         f"`➠ ՏᑌᑭᑭOᖇT ᑕᕼᑎᑎᒪ ➣ @DEMON_NETWORK`\n" 
         f"`➠ ՏᑌᑭᑭOᖇT ᘜᖇᑭ ➣  @DEMON_UB_SUPPORT`\n"
         f"`➠ ᑕᖇᗴᗩTOᖇ ➣ @smitmore2`\n"
-        f"`🔥ᗪᗴᑭᒪOY DEMON USERBOT🔥
+        f"`🔥ᗪᗴᑭᒪOY DEMON USERBOT🔥`\n"
         "`====================================`\n"
         f"🐍 `Python         :` v{python_version()}\n"
         f"⚙️ `Telethon       :` v{version.__version__}\n"
