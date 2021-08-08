@@ -23,14 +23,10 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 DEF_UNAPPROVED_MSG = (
-    "✨ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 ✨
-𝗧𝗛𝗜𝗦 𝗜𝗦 𝗧𝗛𝗘 𝗣𝗠 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗢𝗙 𝗠𝗬 𝗠𝗔𝗦𝗧𝗘𝗥
-𝗗𝗢 𝗡𝗢𝗧 𝗦𝗣𝗔𝗠 𝗛𝗜𝗦 𝗗𝗠 𝗢𝗥 𝗨𝗟𝗟 𝗚𝗘𝗧 𝗥𝗘𝗣𝗢𝗥𝗧𝗘𝗗
-
-𝗝𝗨𝗦𝗧 𝗪𝗔𝗜𝗧 𝗧𝗜𝗟𝗟 𝗠𝗬 𝗠𝗔𝗦𝗧𝗘𝗥 𝗔𝗣𝗣𝗥𝗢𝗩𝗘𝗦 𝗬𝗢𝗨𝗥 𝗥𝗘𝗤𝗨𝗘𝗦𝗧! \n"
-    "IF U SPAM ULL BE BLOCKED!!! \n"
+    "WELCOME THIS IS THE PM SECURITY OF MY MASTERDO NOT SPAM HERE OR ULL GET REPORTED!WAIT TILL MY MASTER APPROVES YOU! Userbot Is Online Owner of DEMON USERBOT IS OFFICIAL SMIT. Hi I'm the one who keeps chat master messages on this account please don't spam until my master reads your messages \n"
+    "If You Spam Automatically I Block You!!! \n"
     "Don't Spam 1 - 3 \n"
-    " - Demon Userbot - "
+    " - SNOOPY Userbot - "
 )
 # =================================================================
 
