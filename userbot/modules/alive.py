@@ -150,8 +150,7 @@ async def amireallyalive(alive):
         f"┞╼════════════════════╾┤\n"
         f"├◈ Don't forget to support our\n"
         f"│    userbot, how to press below.\n"
-        f"╰╼════════════════════╾╯\n"
-        f"| [𝗥𝗲𝗽𝗼](https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVERS-USERBOT) | [𝗗𝗘𝗠𝗢𝗡 𝗡𝗘𝗧𝗪𝗢𝗥𝗞](HTTPS://T.ME/DEMON_NETWORK ) |
+        f"╰╼════════════════════╾╯\n"|
         "`====================================`\n"
         f"🐍 `Python         :` v{python_version()}\n"
         f"⚙️ `Telethon       :` v{version.__version__}\n"
