@@ -135,6 +135,14 @@ async def amireallyalive(alive):
     output = (
         f"`🔥𝗗𝗘𝗠𝗢𝗡 𝗨𝗕 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘🔥`\n"
         "`▬▬▬▬▬▬▬▬▬▬▬▬▬▬`\n"
+        f"`😎🔥 𝗗𝗘𝗠𝗢𝗡 𝗨𝗕 𝗢𝗡 𝗙𝗜𝗥𝗘 😎🔥`\n"
+        f"`↼🄼🄰🅂🅃🄴🅁⇀__`\n"
+        f"`『@DEMON_UB_SUPPORT』`\n"
+        f"`✘ ᗩᗷOᑌT ᗰY ՏYՏTᗴᗰ ✘`\n"
+        f"`➠ ՏᑌᑭᑭOᖇT ᑕᕼᑎᑎᒪ ➣ @DEMON_NETWORK`\n" 
+        f"`➠ ՏᑌᑭᑭOᖇT ᘜᖇᑭ ➣  @DEMON_UB_SUPPORT`\n"
+        f"`➠ ᑕᖇᗴᗩTOᖇ ➣ @smitmore2`\n"
+        f"`🔥ᗪᗴᑭᒪOY DEMON USERBOT🔥
         "`====================================`\n"
         f"🐍 `Python         :` v{python_version()}\n"
         f"⚙️ `Telethon       :` v{version.__version__}\n"
