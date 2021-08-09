@@ -136,6 +136,7 @@ async def amireallyalive(alive):
         f"🔥𝗗𝗘𝗠𝗢𝗡 𝗨𝗕 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘🔥`\n"
         f"⚔️ 𝗠𝗬 𝗕𝗢𝗧 𝗜𝗦 𝗥𝗨𝗡𝗡𝗜𝗜𝗡𝗚 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 ⚔️`\n"
         f" 🔰𝗗𝗘𝗣𝗟𝗢𝗬 𝗦𝗨𝗣𝗘𝗥 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 💝`\𝗻"
+        f"𝗥𝗘𝗣𝗢:[DEMON USERBOT](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT)** \n"
         "`====================================`\n"
         f"🐍 `Python         :` v{python_version()}\n"
         f"⚙️ `Telethon       :` v{version.__version__}\n"
