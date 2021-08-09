@@ -1,6 +1,4 @@
-STARK LEGEND[ 🇮🇳 ]:
-# Copyright (C) 2021 The Mahadev Company LLC.
-#
+#The Mahadev Company LLC.
 # Licensed under the Mahadev Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
