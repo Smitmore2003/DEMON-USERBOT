@@ -145,7 +145,6 @@ async def amireallyalive(alive):
         f"**✦ 𝐑𝐄𝐏𝐎: [SNOOPY USERBOT](https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)** \n" 
         f"**✦ [ᑕᕼᗩᑎᑎᗴᒪ](https://t.me/DEMON_USERBOT): [GROUP](https://t.me/DEMON_USERBOT)**") 
      
-    )
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
