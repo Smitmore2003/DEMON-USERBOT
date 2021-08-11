@@ -21,7 +21,7 @@ from userbot import (
 )
 
 
-PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
+PMPERMIT_PIC = .environ.get("PMPERMIT_PIC", None)
 DEADLYPIC = (
     PMPERMIT_PIC
     if PMPERMIT_PIC
