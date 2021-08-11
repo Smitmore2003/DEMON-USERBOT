@@ -5,7 +5,7 @@
 #
 """Userbot help command"""
 
-from userbot import CMD_HELP
+from userbot import CMD_HELP DEFAULTUSER
 from userbot.events import register
 
 
