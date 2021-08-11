@@ -1,3 +1,11 @@
+from telethon.tl.functions.contacts import BlockRequest, UnblockRequest
+
+from telethon.tl.types import (
+    MessageEntityMentionName,
+)
+
+from userbot import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot, ALIVE_NAME
+from userbot.events import register
 
 
 async def get_full_user(event):
