@@ -35,7 +35,7 @@ async def help_handler(event):
                          "**• Mᴀɪɴ Mᴇɴᴜ :**\n"
                          f"╰►| {string} ◄─\n\n"
                          f"**License : [Raphielscape Public License 1.d](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/blob/DEMON-USERBOT/LICENSE)**\n"
-                         f"**Copyright © 2021 [Lynx-Userbot LLC Company](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/)**")
+                         f"**Copyright © 2021 [Demon-Userbot LLC Company](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/)**")
         await event.reply(f"\n**Example** : Type » `.help admin` For Admin Plugin Usage Information.")
         await asyncio.sleep(1000)
         await event.delete()
