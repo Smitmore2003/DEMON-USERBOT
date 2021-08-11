@@ -134,16 +134,16 @@ async def amireallyalive(alive):
     logo = ALIVE_LOGO
     output = (
         f"🔥𝗗𝗘𝗠𝗢𝗡 𝗨𝗕 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘🔥\n"
-        "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
-        f"⚔️ 𝗠𝗬 𝗕𝗢𝗧 𝗜𝗦 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 ⚔️\n"
-        "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
-        f"🐍 Python         : v{python_version()}\n"
-        f"⚙️ Telethon       : v{version.__version__}\n"
-        f"👤 User           : {DEFAULTUSER}\n"         
-        "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
-        f"𒆜ʍʏ օառɛʀ 𒆜:{DEFAULTUSER}** \n" 
-        f"**✦ 𝐑𝐄𝐏𝐎: [SNOOPY USERBOT](https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)** \n" 
-        f"**✦ [ᑕᕼᗩᑎᑎᗴᒪ](https://t.me/DEMON_USERBOT): [GROUP](https://t.me/DEMON_USERBOT)**") 
+        "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" 
+        f"⚔️ 𝗠𝗬 𝗕𝗢𝗧 𝗜𝗦 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 ⚔️\n" 
+        "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" 
+        f"🐍 Python : v{python_version()}\n"
+        f"⚙️ Telethon : v{version.__version__}\n" 
+        f"👤 User : {DEFAULTUSER}\n" "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" 
+        f"⚡️𝗠𝗬 𝗢𝗪𝗡𝗘𝗥⚡️ :{DEFAULTUSER}** \n" 
+        f"**⚡️ 𝗥𝗘𝗣𝗢⚡️: [𝗗𝗘𝗠𝗢𝗡 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)** \n" 
+        f"**⚡️𝗖𝗛𝗔𝗡𝗡𝗘𝗟⚡️: [𝗗𝗘𝗠𝗢𝗡 𝗦𝗨𝗣𝗣𝗢𝗥𝗧] (https://t.me/DEMON_USERBOT)** \n" 
+        f"**⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣⚡️: [𝗗𝗘𝗠𝗢𝗡 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗧] (https://t.me/DEMON_UB_SUPPORT)**") 
      
     if ALIVE_LOGO:
         try:
