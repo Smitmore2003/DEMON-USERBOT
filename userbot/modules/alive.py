@@ -128,11 +128,55 @@ async def pipcheck(pip):
             await pip.edit("`Use .help pip to see an example`")
 
 
-@register(outgoing=True, pattern=r"^\.(alive|on)$")
+
+@register(outgoing=True, pattern=r"^\.(?:alive|on)\s?(.)?")
 async def amireallyalive(alive):
     """For .alive command, check if the bot is running."""
+    await alive.edit("__Connecting to server.__")
+    await alive.edit("__Connecting to server..__")
+    await alive.edit("__Connecting to server...__")
+    await alive.edit("__Connecting to server.__")
+    await alive.edit("__Connecting to server..__")
+    await alive.edit("__Connecting to server...__")
+    await alive.edit("__Connecting to server.__")
+    await alive.edit("__Connecting to server..__")
+    await alive.edit("__Connecting to server...__")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡              🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡             🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡            🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡           🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡          🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡         🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡        🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡       🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡      🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡     🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡    🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡   🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡  🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡ 🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏🐈")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊🐈⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽🐈𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍🐈𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎𝙀🐈𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐𝙎🐈𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-𝙐🐈𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅-🐈𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻𝘅🐈𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆𝗻🐈-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟𝘆🐈𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡𝗟🐈𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡🐈𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("🐈𝗟𝘆𝗻𝘅-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+    await alive.edit("⚡")
+    await asyncio.sleep(2.5)
+    await alive.edit("😼")
+    await asyncio.sleep(3)
     logo = ALIVE_LOGO
-    output = (        
+    output = (
         f"🔥𝗗𝗘𝗠𝗢𝗡 𝗨𝗕 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘🔥`\n"
         "`▬▬▬▬▬▬▬▬▬▬▬▬▬▬`\n"
         f"⚔️ 𝗠𝗬 𝗕𝗢𝗧 𝗜𝗦 𝗥𝗨𝗡𝗡𝗜𝗜𝗡𝗚 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 ⚔️`\n"
