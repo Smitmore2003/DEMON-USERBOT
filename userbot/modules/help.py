@@ -5,7 +5,7 @@
 #
 """Userbot help command"""
 
-from userbot import CMD_HELP DEFAULTUSER
+from userbot import CMD_HELP
 from userbot.events import register
 
 
@@ -19,18 +19,22 @@ async def help(event):
         else:
             await event.edit("**Error!**`{args}` **not a valid module name**")
     else:
+        head = "`Please specify which module do you want help for!`"
+        head2 = f"__**Loaded Modules :**__ `{len(CMD_HELP)}`"
+        head3 = "__**Function :**__ `.help` <module name>"
+        head4 = "**List for all available command below :** "
         string = ""
-        for i in CMD_HELP:
+        sep1 = "`▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`"
+        sep2 = "`▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`"
+        for i in sorted(CMD_HELP):
             string += "`" + str(i)
-            string += "`\t|  "
-        await event.edit("⚡")
-        await asyncio.sleep(2.5)
-        await event.edit(f"**[⚡Demon-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡](t.me/LynxUserbot)**\n\n"
-                         f"**◑» Bᴏᴛ ᴏꜰ {DEFAULTUSER}**\n**◑» Pʟᴜɢɪɴ : {len(modules)}**\n\n"
-                         "**• Mᴀɪɴ Mᴇɴᴜ :**\n"
-                         f"╰►| {string} ◄─\n\n"
-                         f"**License : [Raphielscape Public License 1.d](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/blob/DEMON-USERBOT/LICENSE)**\n"
-                         f"**Copyright © 2021 [Demon-Userbot LLC Company](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/)**")
-        await event.reply(f"\n**Example** : Type » `.help admin` For Admin Plugin Usage Information.")
-        await asyncio.sleep(1000)
-        await event.delete()
+            string += "`  ♨  "
+        await event.edit(
+            f"{head}\
+              \n{head2}\
+              \n{head3}\
+              \n{sep2}\
+              \n{head4}\
+              \n\n{string}\
+              \n{sep1}"
+        )
