@@ -136,7 +136,7 @@ async def amireallyalive(alive):
     f"🔥𝗗𝗘𝗠𝗢𝗡 𝗨𝗕 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘🔥\n"
     "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" 
     f"⚔️ 𝗠𝗬 𝗕𝗢𝗧 𝗜𝗦 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 ⚔️\n"
-    "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n 
+    "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
     f"🐍 Python : v{python_version()}\n" 
     f"⚙️ Telethon : v{version.__version__}\n" 
     f"👤 User : {DEFAULTUSER}\n" 
