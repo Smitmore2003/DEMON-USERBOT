@@ -6,19 +6,17 @@
 """ Userbot module for getting information about the server. """
 
 
-import asyncio
 from asyncio import create_subprocess_exec as asyncrunapp
 from asyncio.subprocess import PIPE as asyncPIPE
+from os import remove
 from platform import python_version, uname
 from shutil import which
-from os import remove
-from telethon import __version__, version
-import platform
-import sys
-import time
-from datetime import datetime
-import psutil
-from userbot import ALIVE_LOGO, ALIVE_NAME, BOT_VER, CMD_HELP, GEEZ_TEKS_KUSTOM, StartTime, UPSTREAM_REPO_BRANCH, bot
+
+from git import Repo
+from telethon import version
+from telethon.errors.rpcerrorlist import MediaEmptyError
+
+from userbot import ALIVE_LOGO, ALIVE_NAME, CMD_HELP, bot
 from userbot.events import register
 
 
