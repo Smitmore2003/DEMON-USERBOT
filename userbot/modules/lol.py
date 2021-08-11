@@ -7,10 +7,10 @@ cmd: .lol
 import asyncio
 import random
 
-from uniborg.util import demon_cmd
+from uniborg.util import lightning_cmd
 
 
-@borg.on(demon_cmd(pattern=r"lol"))
+@borg.on(lightning_cmd(pattern=r"lol"))
 async def _(event):
 
     if event.fwd_from:
