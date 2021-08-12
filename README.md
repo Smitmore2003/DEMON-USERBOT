@@ -3,7 +3,7 @@
 
  
 
-#OWMER : SMIT 
+#OWNER : SMIT 
 A POWERFUL AND SUPER USERBOT.......
 <p align="center">
   <a href="https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/fork">
