@@ -151,7 +151,7 @@ async def promote(promt):
     # Try to promote if current user is admin or creator
     try:
         await promt.client(EditAdminRequest(promt.chat_id, user.id, new_rights, rank))
-        await promt.edit("`Promoted Successfully!`")
+        await promt.edit("`Promoted Successfully! Ab party do!`")
     except RightForbiddenError:
         return await promt.edit(NO_PERM)
 
@@ -208,7 +208,7 @@ async def demote(dmod):
     # Assume we don't have permission to demote
     except BadRequestError:
         return await dmod.edit(NO_PERM)
-    await dmod.edit("`Demoted Successfully!`")
+    await dmod.edit("`Demoted Successfully! Sed life`")
 
     # Announce to the logging group if we have demoted successfully
     if BOTLOG:
@@ -239,7 +239,7 @@ async def ban(bon):
         return
 
     # Announce that we're going to whack the pest
-    await bon.edit("`Whacking the pest!`")
+    await bon.edit("`NIKAL LA*DE!`")
 
     try:
         await bon.client(EditBannedRequest(bon.chat_id, user.id, BANNED_RIGHTS))
@@ -252,7 +252,7 @@ async def ban(bon):
             await reply.delete()
     except BadRequestError:
         return await bon.edit(
-            "`I dont have message nuking rights! But still he was banned!`"
+            "`JYADA BAAT KAR RHA THA AB BAITH MERA MU ME LEKE!`"
         )
     # Delete message and then tell that the command
     # is done gracefully
@@ -678,7 +678,7 @@ async def pin(msg):
     except BadRequestError:
         return await msg.edit(NO_PERM)
 
-    await msg.edit("`Pinned Successfully!`")
+    await msg.edit("`Pin Kar diya boss!`")
 
     user = await get_user_from_id(msg.sender_id, msg)
 
@@ -721,7 +721,7 @@ async def kick(usr):
             f"`Kicked` [{user.first_name}](tg://user?id={user.id})`!`\nReason: {reason}"
         )
     else:
-        await usr.edit(f"`Kicked` [{user.first_name}](tg://user?id={user.id})`!`")
+        await usr.edit(f"`bhag yha se bhosdike` [{user.first_name}](tg://user?id={user.id})`!`")
 
     if BOTLOG:
         await usr.client.send_message(
