@@ -84,8 +84,7 @@ CMD_HELP.update({
    \nUsage : Works the same as ftyping but this in the form of fake audio\
    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.fgame` <text count>\
    \nUsage : Works the same as ftyping but this is in the form of a fake game\
-   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.fvideo` <text count>\
-   
+   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.fvideo` <text count>\  
    \nUsage : Works the same as ftyping but this is in the form of a fake video"
 })
    
