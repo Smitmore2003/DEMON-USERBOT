@@ -42,10 +42,10 @@ Click the button next to create your strings`
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 ------------
 
-................
+
 © Special credit
 
 
 
 •LEGACY LEAVERS NETWORKS!!!!
-.....................
+
