@@ -24,21 +24,21 @@ from userbot import CMD_HELP, bot
 from userbot.events import register
 
 KANGING_STR = [
-    "Eh... Koq bagus... aku curry ahhh :3",
-    "Aku curry ya kakak :)",
-    "Curry Sticker dulu yee kan",
-    "ehh, mantep nih.....aku ambil ya kaka",
-    "Bagus eaaaa....\nAmbil ahh....",
-    "Ini Sticker aku ambil yaa\nDUARR!",
+    "Koi dekh ni rha tab tk ye sticker le leta hu :3",
+    "lemme kang this :)",
+    "wait stealing this sticker for u",
+    "aise kya dekh rhe ho sticker kang kar rha hu gf nai chura rha tumhari",
+    "kya sticker h bc abhi le leta hu",
+    "aise dekho mat tumhe bhi kang kar luga",
     "leh ugha ni Sticker\nCurry ahh~",
-    "Pim Pim Pom!!!\nni Sticker punya aing sekarang hehe",
-    "Bentar boss, ane curry dulu",
+    "abhi to sticker liya h jyada bologe to ga*d le lenge tumhari..",
+    "ye sticker le leta hu....",
     "Ihh, bagus nih\nCurry ahh~",
-    "Curry lagi yee kan.....",
+    "ye tumhara sticker ab mera ho gya..",
     "CURRY TROSS!!!",
     "Curry Sticker ahh.....",
-    "Curry dolo boss",
-    "Swiper jangan mencurry",
+    "Curry bolo boss",
+    "aise mat dekho sticker hi to hai yaar..",
 ]
 
 
