@@ -1,7 +1,7 @@
 {
   "name": "DeMon UserBot",
   "description": "[Demon UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY DEMON NETWORK"
-  "keywords": "[
+  "keywords" [
     "telegram",
     "userbot",
     "plugin",
