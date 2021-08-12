@@ -29,7 +29,7 @@ __Repository create by [SMIT/SID](Smitmore2)__
 ### String Session 🖇
 `
 Click the button next to create your strings`
-[![repl](https://telegra.ph/file/66c4095df6e49f2c2e915.jpg)](https://replit.com/@provarun2021/DEMON-USERBOT#main.py)
+[![repl](https://telegra.ph/file/66c4095df6e49f2c2e915.jpg)](https://replit.com/@Smitmore2003/DEMON-USERBOT-2#main.py)
     
 ------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
@@ -45,7 +45,7 @@ Click the button next to create your strings`
 ................
 © Special credit
 ....................
-Thank you very so much 🙏
 
-•  LEGACY LEAVERS NETWORKS!!!!
+
+•LEGACY LEAVERS NETWORKS!!!!
 .....................
