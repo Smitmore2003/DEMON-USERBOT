@@ -77,14 +77,13 @@ async def _(event):
         await asyncio.sleep(t)
 
 CMD_HELP.update({
-    "fakeaction":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.ftyping` <text amount>\
+    fakeaction":
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: .ftyping <text count>\
    \nUsage : As if you're typing when you're not\
-   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.faudio` <text amount>\
-   \nUsage : Works the same as ftyping but this in the form of fake audio\
-   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.fgame` <text count>\
+   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: .faudio <text count>\
+   \nUsage : Works the same as ftyping but this is in the form of fake audio\
+   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: .fgame <text count>\
    \nUsage : Works the same as ftyping but this is in the form of a fake game\
-   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.fvideo` <text count>\  
+   \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: .fvideo <text count>\
    \nUsage : Works the same as ftyping but this is in the form of a fake video"
 })
-   
