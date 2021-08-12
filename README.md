@@ -45,7 +45,7 @@ Click the button next to create your strings`
 ................
 © Special credit
 ....................
-Thank you very so much 🙏
 
-•  LEGACY LEAVERS NETWORKS!!!!
+
+•LEGACY LEAVERS NETWORKS!!!!
 .....................
