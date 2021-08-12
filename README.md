@@ -24,7 +24,7 @@ __Repository create by [SMIT/SID](Smitmore2)__
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/77e6b2a553ef3485a40d8.jpg)](https://heroku.com/deploy?template=https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT)
+[![Deploy](https://telegra.ph/file/77e6b2a553ef3485a40d8.jpg)](https://heroku.com/deploy?template=https://github.com/Smitmore2003/DEMON-USERBOT)
 
 ### String Session 🖇
 `
@@ -45,7 +45,7 @@ Click the button next to create your strings`
 ................
 © Special credit
 ....................
+Thank you very so much 🙏
 
-
-•LEGACY LEAVERS NETWORKS!!!!
+•  LEGACY LEAVERS NETWORKS!!!!
 .....................
