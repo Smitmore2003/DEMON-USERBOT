@@ -252,15 +252,15 @@ async def ban(bon):
             await reply.delete()
     except BadRequestError:
         return await bon.edit(
-            "`JYADA BAAT KAR RHA THA AB BAITH MERA MU ME LEKE!`"
+            "`...!`"
         )
     # Delete message and then tell that the command
     # is done gracefully
     # Shout out the ID, so that fedadmins can fban later
     if reason:
-        await bon.edit(f"`{str(user.id)}` was banned !!\nReason: {reason}")
+        await bon.edit(f"`{str(user.id)}` JYADA BAAT KAR RHA THA AB BAITH MERA MU ME LEKE!!\nReason: {reason}")
     else:
-        await bon.edit(f"`{str(user.id)}` was banned !!")
+        await bon.edit(f"`{str(user.id)}` JYADA BAAT KAR RHA THA AB BAITH MERA MU ME LEKE!!")
     # Announce to the logging group if we have banned the person
     # successfully!
     if BOTLOG:
