@@ -1,6 +1,7 @@
 {
   "name": "DeMon UserBot",
-  "description": "[Demon UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY SMIT AND TANDAV X SIDDHARTH",
+  "logo": "https://telegra.ph/file/f916b42a6e47733378f68.jpg"
+  "description": "[Demon UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY DEMON NETWORK",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT",
+  "repository": "https://github.com/Smitmore2003/DEMON-USERBOT",
   "website": "https://t.me/DEMON_UB_SUPPORT",
   "stack": "container",
   "env": {
@@ -44,7 +45,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT",
+      "value": "https://github.com/Smitmore2003/DEMON-USERBOT",
       "required": false
     },
     "COUNTRY": {
