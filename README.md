@@ -4,7 +4,7 @@
  
 
 #OWNER : DEMON NETWORK 
-A POWERFUL AND SAFE USERBOT
+
 <p align="center">
   <a href="https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/fork">
     
