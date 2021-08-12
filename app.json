@@ -1,6 +1,6 @@
 {
-  "name": "DeMon UserBot",
-  "description": "[Demon UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY DEMON NETWORK"
+  "name": "Demon UserBot",
+  "description": "[Demon UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY DEMON NETWORK",
   "keywords": [
     "telegram",
     "userbot",
@@ -156,7 +156,7 @@
     },
     "TERM_ALIAS": {
       "description": "Display user for .term command",
-      "value": "Demon",
+      "value": "DeMon",
       "required": false
     }
   },
