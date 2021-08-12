@@ -142,7 +142,7 @@ async def amireallyalive(alive):
     f"👤 User : {DEFAULTUSER}\n" 
     "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" 
     f"⚡️𝗠𝗬 𝗢𝗪𝗡𝗘𝗥⚡️ :{DEFAULTUSER}** \n" 
-    f"**⚡️ 𝗥𝗘𝗣𝗢⚡️: [𝗗𝗘𝗠𝗢𝗡 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)** \n"
+    f"**⚡️ 𝗥𝗘𝗣𝗢⚡️: [𝗗𝗘𝗠𝗢𝗡 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://github.com/Smitmore2003/DEMON-USERBOT)** \n"
     f"**⚡️𝗖𝗛𝗔𝗡𝗡𝗘𝗟⚡️: [𝗗𝗘𝗠𝗢𝗡 𝗦𝗨𝗣𝗣𝗢𝗥𝗧](https://t.me/DEMON_USERBOT)** \n"
     f"**⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣⚡️: [𝗗𝗘𝗠𝗢𝗡 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗧](https://t.me/DEMON_UB_SUPPORT)**")
     if ALIVE_LOGO:
