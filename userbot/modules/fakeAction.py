@@ -77,7 +77,7 @@ async def _(event):
         await asyncio.sleep(t)
 
 CMD_HELP.update({
-    fakeaction":
+    "fakeaction":
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: .ftyping <text count>\
    \nUsage : As if you're typing when you're not\
    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: .faudio <text count>\
