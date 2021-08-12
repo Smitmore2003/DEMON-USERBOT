@@ -1,4 +1,4 @@
-# 🔥🔥DEMON USERBOT🇮🇳🇮🇳
+# 🇮🇳⚡DEMON USERBOT⚡🇮🇳
 
 
  
@@ -17,7 +17,7 @@
 Click the button below to join our support group`
    <a href="https://t.me/DEMON_UB_SUPPORT"><img src="https://img.shields.io/badge/Grup%20Support%3F-DEMON-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-__Repository create by [SMIT/SID](Smitmore2)__
+__Repository create by [DEMON NETWORK](Smitmore2)__
 
 
 
@@ -44,7 +44,7 @@ Click the button next to create your strings`
 
 ................
 © Special credit
-....................
+
 
 
 •LEGACY LEAVERS NETWORKS!!!!
