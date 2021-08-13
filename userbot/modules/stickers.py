@@ -33,11 +33,11 @@ KANGING_STR = [
     "leh ugha ni Sticker\nCurry ahh~",
     "abhi to sticker liya h jyada bologe to ga*d le lenge tumhari..",
     "ye sticker le leta hu....",
-    "Ihh, bagus nih\nCurry ahh~",
+    "aise kya dekh rhe ho sticker kang kar rha hu gf nai chura rha tumhari",
     "ye tumhara sticker ab mera ho gya..",
-    "CURRY TROSS!!!",
-    "Curry Sticker ahh.....",
-    "Curry bolo boss",
+    "aise kya dekh rhe ho sticker kang kar rha hu gf nai chura rha tumhari",
+    "aise kya dekh rhe ho sticker kang kar rha hu gf nai chura rha tumhari",
+    "abhi to sticker liya h jyada bologe to ga*d le lenge tumhari",
     "aise mat dekho sticker hi to hai yaar..",
 ]
 
