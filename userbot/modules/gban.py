@@ -60,7 +60,7 @@ async def gspider(userbot):
     else:
         friday = await lol.edit("Wait Processing.....")
     me = await userbot.client.get_me()
-    await friday.edit(f"**Global Ban User....**")
+    await friday.edit(f"**Globally Gand marta teri ruk....**")
     my_mention = "[{}](tg://user?id={})".format(me.first_name, me.id)
     f"@{me.username}" if me.username else my_mention
     await userbot.get_chat()
@@ -112,10 +112,10 @@ async def gspider(userbot):
     except BaseException:
         pass
     if reason:
-        await friday.edit(f"**// GLOBAL BANNED USER //**\n\n**Name:** [{user.first_name}](tg://user?id={user.id})\n**Total Group:** {a}\n**Reason:** {reason}"
+        await friday.edit(f"**// GLOBAL BANNED USER.... Lag gye lo*e! //**\n\n**Name:** [{user.first_name}](tg://user?id={user.id})\n**Total Group:** {a}\n**Reason:** {reason}"
                           )
     else:
-        await friday.edit(f"**// GLOBAL BANNED USER //**\n\n**Name:** [{user.first_name}](tg://user?id={user.id})\n**Total Group:** {a}\n**Reason:** {reason}"
+        await friday.edit(f"**// GLOBAL BANNED USER....Lag gye lo*e //**\n\n**Name:** [{user.first_name}](tg://user?id={user.id})\n**Total Group:** {a}\n**Reason:** {reason}"
                           )
     if BOTLOG:
         await bot.send_message(
