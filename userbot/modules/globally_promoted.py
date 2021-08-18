@@ -11,7 +11,7 @@ from telethon.tl.types import (ChannelParticipantsAdmins,
                                    ChatBannedRights,
                                      MessageEntityMentionName,
                                        MessageMediaPhoto)
-from . import *
+
 async def get_full_user(event):  
     args = event.pattern_match.group(1).split(':', 1)
     extra = None
